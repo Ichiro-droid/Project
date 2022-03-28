@@ -27,7 +27,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #323232;
+	color: #fff;
 	font-weight: 400;
 }
 
@@ -128,7 +128,7 @@ ol {
 
 .site-btn {
 	display: inline-block;
-	border: 2px solid #000000;
+	border: 2px solid #fff;
 	font-size: 16px;
 	font-weight: 700;
 	min-width: 189px;
@@ -138,11 +138,11 @@ ol {
 	border-radius: 0;
 	text-align: center;
 	text-transform: uppercase;
-	color: #323232;
+	color: #B3B6B7;
 	line-height: normal;
 	cursor: pointer;
 	background-color: transparent;
-	background-image: url("../img/angle-rignt.png");
+	background-image: url("../img/angle-rignt-w.png");
 	background-repeat: no-repeat;
 	background-position: right 23px top 22px;
 }
@@ -349,7 +349,7 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #fff;
+	background: #17202A;
 	z-index: 9999;
 	-webkit-transition: all 0.4s;
 	-o-transition: all 0.4s;
@@ -396,14 +396,14 @@ ol {
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #323232;
+	color: #fff;
 	padding-left: 63px;
 	margin-bottom: 24px;
 	position: relative;
 }
 
 .main-menu li.active a {
-	border-bottom: 2px solid #000000;
+	border-bottom: 2px solid #fff;
 }
 
 .social-links-warp {
@@ -430,7 +430,7 @@ ol {
 .social-text {
 	font-size: 14px;
 	font-weight: 700;
-	color: #323232;
+	color: #fff;
 	text-transform: uppercase;
 	width: 215px;
 	position: relative;
@@ -449,7 +449,7 @@ ol {
 	height: 2px;
 	right: 0;
 	top: calc(50% - 1px);
-	background: #000;
+	background: #fff;
 }
 
 .copyright {
@@ -458,7 +458,7 @@ ol {
 	width: 455px;
 	left: 0;
 	bottom: 0;
-	background: #fff;
+	background: #2E4053;
 	padding-left: 63px;
 	padding-top: 20px;
 	font-size: 10px;
@@ -535,7 +535,7 @@ ol {
 .slider-item .si-text-box {
 	width: 395px;
 	padding: 90px 50px 100px 0;
-	background: #fff;
+	background: #17202A;
 }
 
 .slider-item .si-text-box span {
