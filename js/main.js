@@ -92,7 +92,7 @@ $(window).on('load', function() {
         dots: false,
         animateOut: 'fadeOut',
     	animateIn: 'fadeIn',
-        navText: ['<img src="./img/angle-left-w.png" alt="">', '<img src="./img/angle-rignt.png" alt="">'],
+        navText: ['<img src="./img/angle-left-w.png" alt="">', '<img src="./img/angle-rignt-w.png" alt="">'],
         smartSpeed: 1200,
         autoHeight: false,
 		startPosition: 'URLHash',
@@ -124,7 +124,7 @@ $(window).on('load', function() {
         nav: true,
         items: 1,
         dots: false,
-        navText: ['<img src="./img/angle-left.png" alt="">', '<img src="./img/angle-rignt-w.png" alt="">'],
+        navText: ['<img src="./img/angle-left-w.png" alt="">', '<img src="./img/angle-rignt-w.png" alt="">'],
 	});
 
 

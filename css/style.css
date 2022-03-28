@@ -458,7 +458,7 @@ ol {
 	width: 455px;
 	left: 0;
 	bottom: 0;
-	background: #2E4053;
+	background: #283747;
 	padding-left: 63px;
 	padding-top: 20px;
 	font-size: 10px;
@@ -500,11 +500,11 @@ ol {
 .hero-slider .owl-nav button.owl-prev {
 	width: 111px;
 	height: 88px;
-	background: #fff;
+	background: #1C2833;
 }
 
 .hero-slider .owl-nav button.owl-prev {
-	background: #323232;
+	background: #1C2833;
 }
 
 #snh-1 {
@@ -517,14 +517,14 @@ ol {
 	right: 0;
 	bottom: 0;
 	text-align: center;
-	background: #fff;
+	background: #1C2833;;
 	padding-top: 22px;
 	z-index: 999;
 }
 
 #snh-1 span {
 	font-size: 30px;
-	color: #323232;
+	color: #fff;
 }
 
 .slider-item {
@@ -578,10 +578,10 @@ ol {
 	top: calc(50% - 26px);
 	font-size: 16px;
 	font-weight: 700;
-	color: #1b1c2e;
+	color: #fff;
 	padding-top: 5px;
-	background-color: #fff;
-	background-image: url("../img/angle-rignt.png");
+	background-color: #1C2833;;
+	background-image: url("../img/angle-rignt-w.png");
 	background-repeat: no-repeat;
 	background-position: center bottom 13px;
 }
