@@ -245,7 +245,7 @@ ol {
 	display: block;
 	height: 100%;
 	padding-top: 30px;
-	background: #323232;
+	background: #1C2833;
 	text-align: center;
 	cursor: pointer;
 }
@@ -264,7 +264,7 @@ ol {
 .nav-switch-warp {
 	display: none;
 	width: 50%;
-	background: #fff;
+	background: #1C2833;
 	padding-top: 17px;
 	padding-left: 15px;
 	-webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
