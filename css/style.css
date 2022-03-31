@@ -1558,7 +1558,6 @@ ol {
 input { 
 	
 	background-color: transparent; /* make the button transparent */ 
-	
 	background-position: 0px 0px; /* equivalent to 'top left' */ 
 	border: none; /* assuming we don't want any borders */ 
 	color: #fff;
@@ -1567,4 +1566,6 @@ input {
 	padding-left: 95px; /* make text start to the right of the image */ 
 	vertical-align: middle; 
     font-family: 'PT Sans', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
 }
