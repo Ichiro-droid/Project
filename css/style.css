@@ -1550,3 +1550,21 @@ ol {
 		padding: 100px 15px 0;
 	}
 }
+
+
+/*------------------
+		Music
+	--------------------*/
+input { 
+	
+	background-color: transparent; /* make the button transparent */ 
+	
+	background-position: 0px 0px; /* equivalent to 'top left' */ 
+	border: none; /* assuming we don't want any borders */ 
+	color: #fff;
+	cursor: pointer; /* make the cursor like hovering over an <a> element */ 
+	height: 90px; /* make this the size of your image */ 
+	padding-left: 95px; /* make text start to the right of the image */ 
+	vertical-align: middle; 
+    font-family: 'PT Sans', sans-serif;
+}
