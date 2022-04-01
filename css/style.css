@@ -1554,7 +1554,7 @@ ol {
 /*------------------
 		Music
 	--------------------*/
-input { 
+button { 
 	
 	background-color: transparent; 
 	background-position: 0px 0px; 
@@ -1564,7 +1564,6 @@ input {
 	height: 90px; 
 	padding-left: 75px; 
 	vertical-align: middle; 
-    font-family: 'PT Sans', sans-serif;
 	font-weight: 700;
 	font-size: 20px;
 }
