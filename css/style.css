@@ -12,12 +12,11 @@
 /* CSS
 /*----------------------------------------*/
 
-html,
-body {
+html, body {
 	height: 100%;
 	font-family: 'PT Sans', sans-serif;
 	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
+	
 }
 
 h1,
@@ -1557,13 +1556,13 @@ ol {
 	--------------------*/
 input { 
 	
-	background-color: transparent; /* make the button transparent */ 
-	background-position: 0px 0px; /* equivalent to 'top left' */ 
-	border: none; /* assuming we don't want any borders */ 
+	background-color: transparent; 
+	background-position: 0px 0px; 
+	border: none; 
 	color: #fff;
-	cursor: pointer; /* make the cursor like hovering over an <a> element */ 
-	height: 90px; /* make this the size of your image */ 
-	padding-left: 95px; /* make text start to the right of the image */ 
+	cursor: pointer; 
+	height: 90px; 
+	padding-left: 75px; 
 	vertical-align: middle; 
     font-family: 'PT Sans', sans-serif;
 	font-weight: 700;
