@@ -214,7 +214,7 @@ window.onload=function(){
 
 	document.getElementById("play").addEventListener("click", function() {
 		// Si deseamos que inicie siempre desde el principio
-	 audioElement.currentTime = 0;
+	 	 audioElement.currentTime = 0;
 
 		// iniciamos el audio
 		audioElement.play();
