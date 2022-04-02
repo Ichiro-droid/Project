@@ -1554,16 +1554,15 @@ ol {
 /*------------------
 		Music
 	--------------------*/
-button { 
+	button { 
 	
-	background-color: transparent; 
-	background-position: 0px 0px; 
-	border: none; 
-	color: #fff;
-	cursor: pointer; 
-	height: 90px; 
-	padding-left: 75px; 
-	vertical-align: middle; 
-	font-weight: 700;
-	font-size: 20px;
-}
+		background-color: transparent; 
+		background-position: 0px 0px; 
+		text-transform: uppercase;
+		border: none; 
+		color: #fff;
+		cursor: pointer; 
+		height: 90px; 
+		padding-left: 75px; 
+		
+	}
